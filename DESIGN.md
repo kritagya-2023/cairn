@@ -3,9 +3,6 @@
 One entry per decision: what was chosen, what was rejected, and why. Written as the
 code was written, not reconstructed afterwards.
 
-This file doubles as interview preparation. Every "why did you do it that way?"
-question about this project should be answerable from here.
-
 ---
 
 ## Phase 1 — Lexer
